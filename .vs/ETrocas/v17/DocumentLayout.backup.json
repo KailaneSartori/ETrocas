@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5160552F-27CF-4C02-9894-83453AEB554B}|ETrocas.csproj|c:\\users\\kaila\\source\\repos\\l\u00F3gicadeprograma\u00E7\u00E3ofiap\\etrocas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5160552F-27CF-4C02-9894-83453AEB554B}|ETrocas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160552F-27CF-4C02-9894-83453AEB554B}|ETrocas.csproj|c:\\users\\kaila\\source\\repos\\l\u00F3gicadeprograma\u00E7\u00E3ofiap\\etrocas\\models\\categoriaroupaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5160552F-27CF-4C02-9894-83453AEB554B}|ETrocas.csproj|solutionrelative:models\\categoriaroupaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160552F-27CF-4C02-9894-83453AEB554B}|ETrocas.csproj|c:\\users\\kaila\\source\\repos\\l\u00F3gicadeprograma\u00E7\u00E3ofiap\\etrocas\\models\\roupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5160552F-27CF-4C02-9894-83453AEB554B}|ETrocas.csproj|solutionrelative:models\\roupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160552F-27CF-4C02-9894-83453AEB554B}|ETrocas.csproj|c:\\users\\kaila\\source\\repos\\l\u00F3gicadeprograma\u00E7\u00E3ofiap\\etrocas\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5160552F-27CF-4C02-9894-83453AEB554B}|ETrocas.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160552F-27CF-4C02-9894-83453AEB554B}|ETrocas.csproj|c:\\users\\kaila\\source\\repos\\l\u00F3gicadeprograma\u00E7\u00E3ofiap\\etrocas\\models\\calcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5160552F-27CF-4C02-9894-83453AEB554B}|ETrocas.csproj|solutionrelative:models\\calcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 898,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaRoupaEnum.cs",
+              "DocumentMoniker": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\Models\\CategoriaRoupaEnum.cs",
+              "RelativeDocumentMoniker": "Models\\CategoriaRoupaEnum.cs",
+              "ToolTip": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\Models\\CategoriaRoupaEnum.cs",
+              "RelativeToolTip": "Models\\CategoriaRoupaEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:47:45.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calcado.cs",
+              "DocumentMoniker": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\Models\\Calcado.cs",
+              "RelativeDocumentMoniker": "Models\\Calcado.cs",
+              "ToolTip": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\Models\\Calcado.cs",
+              "RelativeToolTip": "Models\\Calcado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:25:45.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Roupa.cs",
+              "DocumentMoniker": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\Models\\Roupa.cs",
+              "RelativeDocumentMoniker": "Models\\Roupa.cs",
+              "ToolTip": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\Models\\Roupa.cs",
+              "RelativeToolTip": "Models\\Roupa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:24:34.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:20:24.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kaila\\source\\repos\\L\u00F3gicaDePrograma\u00E7\u00E3oFiap\\ETrocas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:19:28.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

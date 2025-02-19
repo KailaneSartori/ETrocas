@@ -1,0 +1,14 @@
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\bin\Debug\net9.0\ETrocas.exe
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\bin\Debug\net9.0\ETrocas.deps.json
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\bin\Debug\net9.0\ETrocas.runtimeconfig.json
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\bin\Debug\net9.0\ETrocas.dll
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\bin\Debug\net9.0\ETrocas.pdb
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\obj\Debug\net9.0\ETrocas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\obj\Debug\net9.0\ETrocas.AssemblyInfoInputs.cache
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\obj\Debug\net9.0\ETrocas.AssemblyInfo.cs
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\obj\Debug\net9.0\ETrocas.csproj.CoreCompileInputs.cache
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\obj\Debug\net9.0\ETrocas.dll
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\obj\Debug\net9.0\refint\ETrocas.dll
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\obj\Debug\net9.0\ETrocas.pdb
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\obj\Debug\net9.0\ETrocas.genruntimeconfig.cache
+C:\Users\kaila\source\repos\LógicaDeProgramaçãoFiap\ETrocas\obj\Debug\net9.0\ref\ETrocas.dll
