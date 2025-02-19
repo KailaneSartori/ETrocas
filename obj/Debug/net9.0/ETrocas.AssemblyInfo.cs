@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETrocas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd694aa3fa34d481d51e8601033232367a241c69")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETrocas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETrocas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
